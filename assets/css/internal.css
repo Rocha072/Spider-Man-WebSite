@@ -1,0 +1,7 @@
+@import url("./reset.css");
+
+.s-wrapper{
+    display: flex;
+    height: 100vh;
+    flex-flow: row nowrap;
+}
